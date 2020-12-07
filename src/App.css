@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.submitButton {
+  margin-left: 50px !important;
+}
+
+.usersContainer {
+  text-align: left;
+  width: max-content;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.pageNavigator {
+  display: flex;
+}
